@@ -7,6 +7,19 @@ body {
 }
 
 
+.default {
+  background-image: url(https://xshyfc.com/wp-content/uploads/data/2018/2/22/Flat-Wallpaper-PIC-WPXH325415.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.box {
+  height: 50px;
+  border: 1px solid #000;
+}
+
 h1 {
   font-size: $f-h1;
   color: red;
