@@ -1,6 +1,0 @@
-/.env
-/.idea
-/vendor
-.DS_Store
-web/images
-node_modules
